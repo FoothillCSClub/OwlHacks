@@ -5,7 +5,7 @@
 - [ ] Confirm that Faculty Judges will be there. 
   - [x] Mikel, 
   - [ ] Bita
-  - [ ] Anand
+  - [ ] Baba Kofi Weusejana
 - [ ] Guidelines for judging projects
 - [ ] Rules handout (and/or webpage for rules)
 - [x] Decide if we send an email to those who registered online
