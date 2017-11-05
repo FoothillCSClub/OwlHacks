@@ -8,7 +8,8 @@
   - [ ] Anand
 - [ ] Guidelines for judging projects
 - [ ] Rules handout (and/or webpage for rules)
-- [ ] Decide if we send an email to those who registered online
+- [x] Decide if we send an email to those who registered online
+- [ ] Buy Costco wraps for lunch before event
 
 ## Important, but not Pressing
 
