@@ -6,10 +6,11 @@
   - [x] Mikel, 
   - [ ] Bita
   - [ ] Baba Kofi Weusejana
-- [ ] Guidelines for judging projects
+- [x] Guidelines for judging projects
 - [ ] Rules handout (and/or webpage for rules)
 - [x] Decide if we send an email to those who registered online
 - [ ] Buy Costco wraps for lunch before event
+- [ ] Printed certificates of achievement to give away as prizes
 
 ## Important, but not Pressing
 
