@@ -5,9 +5,9 @@
 - [ ] Confirm that Faculty Judges will be there. 
   - [x] Mikel, 
   - [ ] Bita -> John
-  - [ ] Baba Kofi Weusejana
+  - [ ] Baba Kofi Weusejana -> Samuel
 - [x] Guidelines for judging projects
-- [ ] Rules handout (and/or webpage for rules) -> ???
+- [ ] Rules handout (and/or webpage for rules) -> Samuel
 - [x] Decide if we send an email to those who registered online
 - [ ] Buy Costco wraps for lunch before event -> Byron
 - [ ] Printed certificates of achievement to give away as prizes -> Juliana's Husband
@@ -20,13 +20,13 @@
 ## Less Important
 
 - [ ] Microwave -> Samuel
-- [ ] Instant coffee -> Chris,Juliana
-- [ ] Tea Bags -> Samuel
+- [x] Instant coffee -> Chris,Juliana
+- [x] Tea Bags -> Juliana
 - [ ] Kettle -> Juliana
 - [ ] Video games rig (Halo or Smash) -> Josh
 - [ ] Paper cups -> Josh
-- [ ] Paper plates -> Byron
-- [ ] Paper napkins -> Byron
+- [x] Paper plates -> Byron
+- [x] Paper napkins -> Byron
 - [ ] Name tags -> Juliana
 - [X] Sign-in receptionists (Juliana, Chris)
 - [X] Pizza fetcher (Byron)
